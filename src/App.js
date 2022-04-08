@@ -1,7 +1,13 @@
+import { Layout } from "./components/Layout";
+import {Routes,BrowserRouter,Route} from 'react-router-dom';
+import { HomeLayout } from "./components/HomeLayout";
+import { QuizLayout } from "./components/Quiz/QuizLayout";
 function App() {
   return (
     <div>
-      "HEllo"
+      <Layout>
+      
+      </Layout>
     </div>
   );
 }
