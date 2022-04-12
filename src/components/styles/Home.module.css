@@ -1,0 +1,85 @@
+.nav{
+    box-shadow:  0px -5px 1px 6px rgb(0 0 0 / 25%), 0px -9px 16px 4px rgb(0 0 0 / 22%);
+ }
+ .btn{
+     margin-left: 1113px;
+     margin-top: 37px;
+     background:rgba(36, 18, 95, 1);
+     font-family: proxima-nova;
+     font-size: 19px;
+     cursor: pointer;
+     color: white;
+     padding: 10px 34px;
+     transition: 0.4s;
+ }
+ .btn:hover{
+   color:red;
+   background:white;
+   }
+ .img{
+     width: 300px;
+     height: 22vw;
+     object-fit: cover;
+     transition: width 1s;
+ }
+ .card {
+     margin-top:100px;
+     margin-left:80px;
+     width: 300px;
+     height: 300px;
+     border-radius: 0px;
+     box-shadow: 0px 0px 0px 0px rgb(0 0 0 / 25%), 0px 0px 0px 0px rgb(0 0 0 / 22%);
+     cursor: pointer;
+     color: rgba(0, 0, 0, 1);
+     transition: 0.4s;
+     opacity: 100%;
+   }
+ .h1{
+     color:rgba(36, 18, 95, 1);
+ }
+   .card1 {
+     margin-top:-316px;
+     margin-left:500px;
+     width: 300px;
+     height: 300px;
+     box-shadow: 0px 0px 0px 1px rgb(0 0 0 / 25%), 0px 0px 0px 0px rgb(0 0 0 / 22%);
+     cursor: pointer;
+     transition: 0.4s;
+   }
+   .card2 {
+     margin-top:-301px;
+     margin-left:917px;
+     width: 300px;
+     height: 300px;
+     box-shadow: 0px 0px 0px 1px rgb(0 0 0 / 25%), 0px 0px 0px 0px rgb(0 0 0 / 22%);
+     cursor: pointer;
+     transition: 0.4s;
+   }
+   .card3 {
+     margin-top:100px;
+     margin-left:80px;
+     width: 300px;
+     height: 300px;
+     box-shadow: 0px 0px 0px 1px rgb(0 0 0 / 25%), 0px 0px 0px 0px rgb(0 0 0 / 22%);
+     cursor: pointer;
+     transition: 0.4s;
+     
+   }
+   .card4 {
+     margin-top:-300px;
+     margin-left:500px;
+     width: 300px;
+     height: 300px;
+     box-shadow: 0px 0px 0px 1px rgb(0 0 0 / 25%), 0px 0px 0px 0px rgb(0 0 0 / 22%);
+     cursor: pointer;
+     transition: 0.4s;
+   }
+   .card5 {
+     margin-top:-301px;
+     margin-left:917px;
+     width: 300px;
+     height: 300px;
+     box-shadow: 0px 0px 0px 1px rgb(0 0 0 / 25%), 0px 0px 0px 0px rgb(0 0 0 / 22%);
+     cursor: pointer;
+     transition: 0.4s;
+   }

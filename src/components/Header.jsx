@@ -1,6 +1,9 @@
+import Logo from './imgs/logo.png';
+import classes from './styles/Home.module.css';
 export const Header = () =>{
     return(
-        // Design a header with logo and once logged in Quiz App should be visible
-        <div>Heaader</div>
+        <nav className={classes.nav}>
+            <img src={Logo}/>
+        </nav>
     )
 }
