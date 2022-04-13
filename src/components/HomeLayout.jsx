@@ -1,8 +1,13 @@
+import { Header } from "./Header"
+import { HomeCards } from "./HmeCards"
+import { HomeSubHeader } from "./HomeSubHeader"
 export const HomeLayout = () =>{
     return(
         <div>
-           <link to ='/' ></link>
-           home
+            <Header/>
+            <HomeSubHeader/>
+            <HomeCards/>
+        
         </div>
     )
 }

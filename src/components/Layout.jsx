@@ -1,13 +1,11 @@
 // Layout will return only HEader
-import { Header } from "./Header"
-import { HomeCards } from "./HmeCards"
-import { HomeSubHeader } from "./HomeSubHeader"
+
+import { HomeLayout } from "./HomeLayout"
+
 export const Layout = () =>{
     return (
-        <div>
-            <Header/>
-            <HomeSubHeader/>
-            <HomeCards/>
+        <div> 
+           <HomeLayout/>
         </div>
   
     )
